@@ -30,8 +30,3 @@
    - Phát triển trên cả nền Mobile và nền Web
 
 # Mô phỏng theo [Kids Math](https://play.google.com/store/apps/details?id=kids.math.mathforkids&hl=vi)
-
-<img src="http://i.imgur.com/3NgQXMi.jpg">
-<img src="http://i.imgur.com/PDLpQDT.jpg">
-<img src="http://i.imgur.com/UibyS9v.jpg">
-<img src="http://i.imgur.com/b55yX9F.jpg">

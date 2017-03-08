@@ -3,7 +3,7 @@
 # Tên dự án: englishforyou.com
 
 # Dựa theo trang web: 
-	.http://englishlearningdemo.herokuapp.com/
+	http://englishlearningdemo.herokuapp.com/
 
 # Công cụ làm web: bootstrap
 

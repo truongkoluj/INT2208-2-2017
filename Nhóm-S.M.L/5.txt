@@ -1,0 +1,112 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css"
+    rel="stylesheet" type="text/css">
+    <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css"
+    rel="stylesheet" type="text/css">
+  </head>
+  
+  <body>
+    <div class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-ex-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active">
+              <a href="#">Home</a>
+            </li>
+            <li class="active">
+              <a href="#">Contacts</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="alert alert-dismissable alert-warning">
+              <b>search</b>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="E:\Fall in love\Pictures\full stock\guitar-bass-instrument-black.jpg"
+            class="img-responsive">
+          </div>
+          <div class="col-md-6">
+            <h1>Guitar</h1>
+            <h3>Guitar di?n E5</h3>
+            <p>Th? lo?i : Guitar di?n
+              <br>Giá : 1.000.000 VNÐ
+              <br>Tên ch? shop: Nguy?n Thanh Nga
+              <br>SÐT : 097 644 6880
+              <br>Ð?a ch? shop:&nbsp; S? 22, Ph?m Van Ð?ng, D?ch V?ng, C?u Gi?y, Hà N?i
+              <br>Noi giao hàng : S? 2, Hò Tùng M?u, Mai D?ch, C?u Gi?y, Hà N?i
+              <br>Phí Ship: 20.000 VNÐ
+              <br>Th?i gian nh?n : 27/3/2017
+              <br>Ghi chú : C?n b?c x?p, tránh tr?y xu?c
+              <br>
+              <br>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="well">
+              <h2 class="text-danger">Ngô Thanh Luong</h2>
+              <p class="text-primary">Không ship cái này ti?n ít quá</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="well">
+              <h2 class="text-danger">Vu Gia Hùng</h2>
+              <p class="text-primary">Em oi sao mà dàn x?u th?</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="well">
+              <h2 class="text-danger">Nguy?n Tu?n Vu?ng</h2>
+              <p class="text-primary">Không ph?i di choi v?i ngu?i yêu thì &nbsp;tôi cung ship r?i d?y</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+</html>

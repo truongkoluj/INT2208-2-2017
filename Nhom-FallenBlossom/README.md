@@ -13,10 +13,9 @@
 
 ### Play game
   - Trò chơi gồm có 3 mức độ Dễ, Trung bình và Khó
-  - Mỗi mức độ có 8 Level, mỗi Level cần trả lời đúng 5 câu hỏi để vượt qua. Sau khi vượt qua 1 Level mới mở được Level sau
+  - Mỗi mức độ có 10 Level, mỗi Level cần trả lời đúng 5 câu hỏi để vượt qua. Sau khi vượt qua 1 Level mới mở được Level sau
   - Cách chơi: Click chuột vào ô để chọn đáp án, nếu trả lời đúng sẽ hiện nút Next, click vào để hiện câu mới.
   - Các câu hỏi gắn với hình minh họa trái cây, các vật dụng quen thuộc đối với các bé cấp 1
-
 # Các công cụ thực hiện phần mềm 
    - Thiết kế giao diện: Bootstrap Frame,...
    - Ngôn ngữ lập trình: HTML5&CSS, Javascript, Ruby,...
@@ -30,3 +29,8 @@
    - Phát triển trên cả nền Mobile và nền Web
 
 # Mô phỏng theo [Kids Math](https://play.google.com/store/apps/details?id=kids.math.mathforkids&hl=vi)
+# Nhóm FallenBlossom
+   - Đào Đức Hòa
+   - Trương Huy Hùng
+   - Trần Tuấn Anh
+   - Lô Quốc Khánh

@@ -16,3 +16,8 @@
 		3.profile
 		4.change infomation
 		5.searching and explore people
+## chức năng
+	Post ảnh cho mọi người vào xem
+	chức năng hiện người có nhiều bài viết được like nhiều nhất
+## phi chức năng
+	giao diện thân thiện, dễ sử dụng

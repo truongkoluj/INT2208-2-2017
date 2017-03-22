@@ -12,7 +12,7 @@
 		+ Có thể bổ xung thêm một vài chức năng khác trong quá trình hoàn thiện.
 	- Dựa trên trang web hocmai.vn
 	#Use case:
-	![Use case](usecase.png)
+	![Use case](https://github.com/huyhoc1310/INT2208-2-2017/blob/master/Nhom-Corgi/usecase.png)
 
 # Các công cụ sử dụng:
   - HTML/CSS

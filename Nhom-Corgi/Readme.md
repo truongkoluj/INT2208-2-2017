@@ -1,32 +1,23 @@
-#Nhóm Corgi
-CÁC THÀNH VIÊN:
-	- Cao Mai Hương
-	- Phạm Việt Đức
-	- Cao Mai Hương
-	- Trần Ngọc Minh
-#Ý tưởng của nhóm
-	- Dựa trên trang web hocmai.vn
-<<<<<<< HEAD
-	- Các chức năng:
-		+ Xem videos bài giảng
-		+ Tải đề thi
-		+ Thi online
-#Use case
-	![Image of Usecase](https://github.com/huyhoc1310/INT2208-2-2017/blob/master/Nhom-Corgi/usecase.png)
-#Công cụ sử dụng
-	- HTML&Css
-	- Bootstrap
-	- Javascript
-	- Ruby on rails
-=======
-	#Use case:
-	![Use case](https://github.com/huyhoc1310/INT2208-2-2017/blob/master/Nhom-Corgi/usecase.png)
+# Nhóm Corgi
 
-# Các công cụ sử dụng:
-  - HTML/CSS
-  - JS
-  - Jquery
-  - Bootstrap
- 
+## Các thành viên trong nhóm:
 
->>>>>>> origin/master
+  - Cao Mai Hương
+  - Phạm Việt Đức
+  - Trần Ngọc Minh
+  - Nguyễn Đức Huy Học
+## Các chức năng:
+ - Dựa trên trang hocmai.vn  
+  - Xem videos bài giảng
+  - Tải và xem đề thi thử
+  - Thi online
+
+
+### Công cụ sử dụng
+ * HTML & CSS
+ * Bootstrap
+ * Jquery
+ * Ruby on rails
+
+### Use case
+![Image of Usecase](https://github.com/huyhoc1310/INT2208-2-2017/blob/master/Nhom-Corgi/usecase.png)

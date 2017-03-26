@@ -12,4 +12,4 @@
 - Thi online đề thi đại học, đề thi thử các trường
 - Hệ thống tài liệu, công thức làm nhanh phong phú
 - Giao diện thân thiện, dễ sử dụng
-### [Link sơ đồ ca](http://i.imgur.com/r2c9hX9.jpg)
+### ![Sơ đồ ca](http://i.imgur.com/r2c9hX9.jpg)

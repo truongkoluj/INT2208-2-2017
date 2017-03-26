@@ -14,3 +14,5 @@
 - Giao diện thân thiện, dễ sử dụng
 ### Sơ đồ ca
 ### ![Sơ đồ ca](http://i.imgur.com/r2c9hX9.jpg)
+### ![Sơ đồ ca](http://i.imgur.com/fmBvcyU.jpg)
+### ![Sơ đồ ca](http://i.imgur.com/7UnUv4t.jpg)

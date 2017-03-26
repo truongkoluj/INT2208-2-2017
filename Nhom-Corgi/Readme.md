@@ -3,7 +3,7 @@
 =======
 ## Các thành viên trong nhóm:
 
-<<<<<<< HEAD
+
   - Cao Mai Hương
   - Phạm Việt Đức
   - Trần Ngọc Minh
@@ -23,6 +23,7 @@
 
 ### Use case
 ![Image of Usecase](https://github.com/huyhoc1310/INT2208-2-2017/blob/master/Nhom-Corgi/usecase.png)
-=======
+### User story
+https://docs.google.com/document/d/1jN67pFaU3rwgVynhIbiRawhqqYsr-lEd7EYMMpODcn4/edit?usp=sharing
 
->>>>>>> origin/master
+

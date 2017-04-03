@@ -1,4 +1,7 @@
 Feature: Smallbig
+    As a người dùng
+    In order to luyện tập so sánh các số
+    So that người dùng muốn chơi mini game Small to Big
 
 Scenario: Tôi chọn đúng
     Given Tôi đang ở màn hình Small to Big

@@ -1,7 +1,4 @@
-Feature: Index
-    As a student
-    So that I can score high in exams
-    I want to practice more and more
+Feature: Truy cập các chức năng từ trang chủ
 
 Scenario: Tôi chọn mục "Đúng hay sai"
     Given Tôi đang ở màn hình trang chủ hiển thị các phần chơi

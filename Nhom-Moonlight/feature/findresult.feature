@@ -1,4 +1,7 @@
 Feature: Find the Result 
+    As a người dùng
+    In order to luyện tập các phép tính cơ bản
+    So that người dùng muốn chơi mini game Find the Result
 
 Scenario: Tôi chọn đúng
     Given Tôi đang ở màn hình Find the Result 

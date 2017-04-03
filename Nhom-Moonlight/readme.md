@@ -1,6 +1,6 @@
-#nhóm Moonlight
+# Nhóm Moonlight
 
-##danh sách thành viên nhóm:
+## Danh sách thành viên nhóm:
 * Phạm Bá Dương
 * Lê Ngọc Cường
 * Đàm Đình Đinh

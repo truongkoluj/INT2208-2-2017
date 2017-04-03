@@ -1,10 +1,10 @@
 Feature: Find the Result 
     As a người dùng
-    In order to luyện tập các phép tính cơ bản
-    So that người dùng muốn chơi mini game Find the Result
+    I want to luyện tập các phép tính cơ bản
+    So that I chơi mini game "Chọn kết quả đúng"
 
 Scenario: Tôi chọn đúng
-    Given Tôi đang ở màn hình Find the Result 
+    Given Tôi đang ở màn hình "Chọn kết quả đúng"
     And Màn hình hiển thị phép tính 7+12=?
     And Màn hình hiển thị 4 kết quả dưới phép tính là 19 22 23 14
     When Tôi chọn kết quả là 19
@@ -13,7 +13,7 @@ Scenario: Tôi chọn đúng
     And Màn hình chuyển sang phép tính mới
 
 Scenario: Tôi chọn sai
-    Given Tôi đang ở màn hình Find the Result 
+    Given Tôi đang ở màn hình "Chọn kết quả đúng"
     And Màn hình hiển thị phép tính 7+12=?
     And Màn hình hiển thị 4 kết quả dưới phép tính là 19 22 23 14
     When Tôi chọn 1 trong các kết quả là 22 23 14

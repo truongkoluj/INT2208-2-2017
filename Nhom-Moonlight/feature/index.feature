@@ -1,24 +1,24 @@
-Feature: Index
-    As a student
-    So that I can score high in exams
-    I want to practice more and more
+Feature: Truy cập các chức năng từ trang chủ
+    As a người dùng
+    I want to luyện tập toán cơ bản
+    So that I chơi các mini game về toán
 
 Scenario: Tôi chọn mục "Đúng hay sai"
     Given Tôi đang ở màn hình trang chủ hiển thị các phần chơi
     When Tôi bấm nút "Bắt đầu" của mục "Đúng hay sai"
-    Then Màn hình trang chủ chuyển sang màn hình của minigame "Right or Wrong"  
+    Then Màn hình trang chủ chuyển sang màn hình của minigame "Đúng hay Sai"  
 
 Scenario: Tôi chọn mục "Chọn kết quả đúng"
     Given Tôi đang ở màn hình trang chủ hiển thị các phần chơi
     When Tôi bấm nút "Bắt đầu" của mục "Chọn kết quả đúng"
-    Then Màn hình trang chủ chuyển sang màn hình của minigame "Find the Result"  
+    Then Màn hình trang chủ chuyển sang màn hình của minigame "Chọn kết quả đúng"  
 
 Scenario: Tôi chọn mục "Tìm dấu phép tính"
     Given Tôi đang ở màn hình trang chủ hiển thị các phần chơi
     When Tôi bấm nút "Bắt đầu" của mục "Tìm dấu phép tính"
-    Then Màn hình trang chủ chuyển sang màn hình của minigame "What's Missing?"  
+    Then Màn hình trang chủ chuyển sang màn hình của minigame "Tìm dấu phép tính"  
 
-Scenario: Tôi chọn mục "Sắp xếp"
+Scenario: Tôi chọn mục "Sắp xếp các số"
     Given Tôi đang ở màn hình trang chủ hiển thị các phần chơi
-    When Tôi bấm nút "Bắt đầu" của mục "Sắp xếp"
-    Then Màn hình trang chủ chuyển sang màn hình của minigame "Small to Big"  
+    When Tôi bấm nút "Bắt đầu" của mục "Sắp xếp các số"
+    Then Màn hình trang chủ chuyển sang màn hình của minigame "Sắp xếp các số"  

@@ -1,7 +1,7 @@
 Feature: Truy cập các chức năng từ trang chủ
     As a người dùng
-    I to luyện tập toán cơ bản
-    So that tôi chơi các mini game về toán
+    I want to luyện tập toán cơ bản
+    So that I chơi các mini game về toán
 
 Scenario: Tôi chọn mục "Đúng hay sai"
     Given Tôi đang ở màn hình trang chủ hiển thị các phần chơi

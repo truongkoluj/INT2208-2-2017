@@ -1,4 +1,7 @@
 Feature: Whatmissing
+    As a người dùng
+    In order to luyện tập các phép tính cơ bản
+    So that người dùng muốn chơi mini game What's Missing?
 
 Scenario: Tôi chọn đúng
     Given Tôi đang ở màn hình What's Missing?

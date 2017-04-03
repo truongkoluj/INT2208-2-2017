@@ -8,6 +8,10 @@
 
 ## Ứng dụng clone lại: Math for Kids
 
+## Giao diện: Bootstrap
+
+## Framework: Angular 2
+
 ## Use case 
 ![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/4gcuapqybi_blob)
 ## Đúng & Sai

@@ -1,4 +1,4 @@
-Feature: Find the Result 
+Feature: Chơi "Chọn kết quả đúng" 
     As a người dùng
     I want to luyện tập các phép tính cơ bản
     So that I chơi mini game "Chọn kết quả đúng"

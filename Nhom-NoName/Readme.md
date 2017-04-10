@@ -3,7 +3,7 @@
 ## Thành viên
 - Bùi Xuân Vương
 - Bùi Quang Trường
-- Bùi Ngọc Hân
+- Phạm Quang Trường
 - Lưu Văn Phúc
 
 ***
